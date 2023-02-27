@@ -1,3 +1,5 @@
+var cs = "Server=myServerAddress;Database=myDataBase;User Id=myUsername;Password=myPassword;";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
